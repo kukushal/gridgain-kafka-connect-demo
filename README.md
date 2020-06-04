@@ -1,2 +1,4 @@
 # gridgain-kafka-connect-demo
-Continuous data replication from MySQL to GridGain
+Various GridGain integration scenarios with Kafka
+
+- [Continuous data replication from MySQL to GridGain](gg2mysql)
